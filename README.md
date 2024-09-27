@@ -1,1 +1,1 @@
-# radio-electronic-devices
+# радіоелектронні пристрої | radio-electronic-devices
